@@ -8,10 +8,9 @@ This is a Java text input. It works by continually updating a string, also refer
 Additionally, the exercise is designed to identify any trigger words which are stored in a separate file. Furthermore, trigger words are identifiable even in continuous strings. If a match has been found, the trigger word is being highlighted in red. Each saved string is green by default.
 
 > **Important!**
-> This exercise is written using Processing IDE. More information on inbuilt functions that have been used throughout the code can be found accessing: 
-[Processing Documentation](https://processing.org/reference/)
+> This exercise is written using Processing IDE. More information on inbuilt functions that have been used throughout the code can be found by accessing the: [Processing Documentation](https://processing.org/reference/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2MTAzNTQ1LC0xNzg2NTQ0MzgxLDIwMD
-k5NTUwMDUsMTg4OTExMjI4N119
+eyJoaXN0b3J5IjpbLTgyNTI2MDEzNywtMTc4NjU0NDM4MSwyMD
+A5OTU1MDA1LDE4ODkxMTIyODddfQ==
 -->
