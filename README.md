@@ -2,7 +2,8 @@
 This is a Java text input. It works by continually updating a string, also referred to as a typing string, in which is being written until the return key, i.e. enter, is being pressed.
 
 ```
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ```
 
  After this action, the content of the typing string is stored in a list.
@@ -15,6 +16,6 @@ Additionally, the exercise is designed to identify any trigger words which are s
 > This exercise is written using Processing IDE. More information on inbuilt functions that have been used throughout the code can be found by accessing the: [Processing Documentation](https://processing.org/reference/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzY3NzIxLC04MjUyNjAxMzcsLTE3OD
-Y1NDQzODEsMjAwOTk1NTAwNSwxODg5MTEyMjg3XX0=
+eyJoaXN0b3J5IjpbLTE3MDU1Mzc4MjEsLTgyNTI2MDEzNywtMT
+c4NjU0NDM4MSwyMDA5OTU1MDA1LDE4ODkxMTIyODddfQ==
 -->
