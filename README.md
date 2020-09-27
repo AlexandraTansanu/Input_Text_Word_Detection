@@ -1,5 +1,4 @@
 # Text_Input
-
 This is a Java text input. It works by continually updating a string, also referred to as a typing string, in which is being written until the return key, i.e. enter, is being pressed.
 
  After this action, the content of the typing string is stored in a list.
@@ -7,7 +6,10 @@ This is a Java text input. It works by continually updating a string, also refer
  If 'quit' is being typed , the typing string will not receive any new content and all the saved strings in the list are being displayed. 
 
 Additionally, the exercise is designed to identify any trigger words which are stored in a separate file. Furthermore, trigger words are identifiable even in continuous strings. If a match has been found, the trigger word is being highlighted in red. Each saved string is green by default.
+
+> **Important!**
+> This exercise is written using Processing IDE. For more information of the inbuilt functions 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE3MDIwNTMsLTE3ODY1NDQzODEsMj
+eyJoaXN0b3J5IjpbLTIwMTI3MDk4MjQsLTE3ODY1NDQzODEsMj
 AwOTk1NTAwNSwxODg5MTEyMjg3XX0=
 -->
