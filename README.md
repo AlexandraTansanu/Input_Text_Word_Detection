@@ -3,7 +3,7 @@ This is a Java text input. It works by continually updating a string, also refer
 
 ```
 ```
-![GitHub Logo](/images/logo.png) ![Alt Text](url)
+![GitHub Logo](/images/logo.png)
 ```
 ```
  After this action, the content of the typing string is stored in a list.
@@ -16,6 +16,6 @@ Additionally, the exercise is designed to identify any trigger words which are s
 > This exercise is written using Processing IDE. More information on inbuilt functions that have been used throughout the code can be found by accessing the: [Processing Documentation](https://processing.org/reference/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA3MTk2MTgsLTgyNTI2MDEzNywtMT
+eyJoaXN0b3J5IjpbLTEzMzI4MzYyNDUsLTgyNTI2MDEzNywtMT
 c4NjU0NDM4MSwyMDA5OTU1MDA1LDE4ODkxMTIyODddfQ==
 -->
