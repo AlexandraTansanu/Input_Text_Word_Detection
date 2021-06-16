@@ -5,7 +5,6 @@ The program works by continually updating a string, also referred to as a typing
 
 Additionally, the exercise is designed to identify any trigger words stored in advance in a text file. These words are identifiable even strings containing no spaces. If a match is found, the trigger word will be highlighted in red. Otherwise, the text will be displayed in green. 
 
-> **Important!**
 > This exercise is written using the Processing IDE. More information on inbuilt functions that have been used throughout the code can be found by accessing the [Processing Documentation](https://processing.org/reference/)
 
 <!--stackedit_data:
