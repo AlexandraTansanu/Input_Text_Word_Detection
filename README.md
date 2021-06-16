@@ -1,4 +1,4 @@
-# Input text word detection
+# Text input word detection
 Written as an exercise in the first academic year, this is a simple Java text input program capable of detecting specific words. 
 
 The program works by continually updating a string, also referred to as a typing string, which receives input until the return key is pressed. After this action, the content of the typing string is stored in a list. If 'quit' is inputted, the typing string will not receive any new input and all saved strings in the list will be displayed. 
