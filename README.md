@@ -1,5 +1,5 @@
 # Text_Input
-This is a Java text input program. It works by continually updating a string, also referred to as a typing string, in which is being written until the return key, i.e. enter, is being pressed.
+This is a Java text input program. It works by continually updating a string, also referred to as a typing string, in which is being written until the return key is being pressed.
 
  After this action, the content of the typing string is stored in a list.
 
