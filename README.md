@@ -1,5 +1,5 @@
 # Text input word detection
-This is a simple text input program capable of detecting specific trigger words. 
+This is a simple text input program capable of detecting specific words. Complexer versions of such programs are ofetn used by the police force to identify potential incriminatory messages.   
 
 **Difficulty level:** Beginner. 
 
