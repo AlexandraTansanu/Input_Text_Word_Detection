@@ -10,8 +10,7 @@ Additionally, the exercise is designed to identify any trigger words stored in a
 
 > This exercise is written using the Processing IDE. More information on inbuilt functions that have been used throughout the code can be found by accessing the [Processing Documentation](https://processing.org/reference/)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTI2MDEzNywtMTMzMjgzNjI0NSwtOD
-I1MjYwMTM3LC0xNzg2NTQ0MzgxLDIwMDk5NTUwMDUsMTg4OTEx
-MjI4N119
--->
+## Text_input.pde
+https://user-images.githubusercontent.com/60512873/122519502-62ebe380-cfc7-11eb-8df7-db29d308bff6.mp4
+
+
